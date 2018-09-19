@@ -3,7 +3,7 @@
 
 ## 使用
 1. 下载源码打包 `git clone https://github.io/mmtou/calculator`
-2. [直接下载apk包](https://github.io/mmtou/calculator/docs/calculator.apk)
+2. [直接下载apk包](./docs/calculator.apk)
 
 ## 截图
 ![](./docs/index.jpeg)
